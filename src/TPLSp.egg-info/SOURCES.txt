@@ -1,0 +1,10 @@
+LICENSE
+README.md
+pyproject.toml
+setup.cfg
+src/TPLSp/TPLScode.py
+src/TPLSp/__init__.py
+src/TPLSp.egg-info/PKG-INFO
+src/TPLSp.egg-info/SOURCES.txt
+src/TPLSp.egg-info/dependency_links.txt
+src/TPLSp.egg-info/top_level.txt
