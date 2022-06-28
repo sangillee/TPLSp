@@ -116,7 +116,7 @@ class TPLS_cv:
         # input checking
         TPLSinputchecker(X,'X','mat',None,None,1); n = X.shape[0]
         Y = TPLSinputchecker(Y,'Y','colvec',None,None,1)
-        if CVfold.ndim == 1:
+        if CVfold.ndim == 1 or CVfold.shape[1] == 1:
             CVfold = TPLSinputchecker(CVfold,'CVfold','colvec')
         else:
             TPLSinputchecker(CVfold,'CVfold','mat')

@@ -1,9 +1,10 @@
 {
   "ExpandedNodes": [
     "",
+    "\\example",
     "\\src",
     "\\src\\TPLSp"
   ],
-  "SelectedNode": "\\src\\TPLSp\\evalTuningParam.py",
+  "SelectedNode": "\\example\\TPLSp_example1.py",
   "PreviewInSolutionExplorer": false
 }
