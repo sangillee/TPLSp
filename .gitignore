@@ -1,0 +1,4 @@
+# ignore visual studio folder
+.vs
+TPLS.egg-info
+__pycache__
